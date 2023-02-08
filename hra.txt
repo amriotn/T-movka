@@ -1,0 +1,46 @@
+Engine (Unity) nebo java(?)? - Radši bych se naučil pracovat v Unity ale pro upřesnění zadání by mě zajímalo jestli můžeme použít Unity, což asi můžem.
+
+=> UNITY + GitHub
+
+
+--------------------------------------
+Graf
+- pixel art?
+
+Level selector screen 
+	- mapa školy, tam kde má být level dát nějakej pin nebo něco, aby se zvýraznil
+tutoral level BG
+Level 1 BG 
+	- celkově kažný level potřebuje BG
+Main Character 
+	- člověk
+Kachničky
+	- accessories pro kachničky / kachničky už s accessories
+Floor tiles, wall tiles
+Enemies
+Goal
+
+-----------------------------------
+Prog
+- Unity
+
+Main menu 
+	- Options, level selector, leaderboard (možná rovnou součástí main menu?)
+Level selector 
+	- Klikneš na level -> ukáže se leaderboard toho levelu, úkoly na ten level (3)
+Movement 
+	- měl by být dobrej - viz. celeste atd. = coyote time, wall jump, dash?
+Kolize se zemí, stěnami a celkově s mapou
+Pause 
+	- Resume game, sound, options?
+Collecting kachniček
+Smrt při kolizi s enemy
+Leaderboard
+Počítání času v levelu !!
+
+------------------------------------
+Sound design
+
+hudba
+sound efeky
+- mělo by to být satisfying
